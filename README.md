@@ -1,5 +1,5 @@
 # chrome-disco
-Chrome extension to make the URL tidier for EA more automated and convenient
+Chrome extension to make the URL tidier for EA (https://disconnect2.herokuapp.com/) more automated and convenient
 
 #### To start
 - go to `chrome://extensions/` in your browser
