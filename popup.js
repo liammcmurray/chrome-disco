@@ -116,3 +116,42 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
 });
+
+
+
+
+
+
+
+
+
+
+
+// my stuff
+
+
+// <script>
+// function connect2decoder(outboundLInk) {
+//     outboundLink = document.getElementsByName("badURL")[0].value;;
+
+// if (outboundLink === "") 
+// {
+//     alert ('No URL found in the text input, please try again');
+// }
+// else 
+// {
+//     encodedLink = outboundLink.split('&URL=')[1];
+//     realLink = decodeURIComponent(encodedLink);
+// // Put new link into href element of <a> on page, and display for confirmation
+//     document.getElementById("resolved").setAttribute("href",realLink);
+//     document.getElementById("resolvedText").innerHTML = realLink;
+
+// //Change visibility of interactive elements once new link is created
+//     enterURL.classList.add("hide");
+//     hideButton.classList.add("hide");
+//     resolvedText.classList.remove("hide");
+//     resolved.classList.remove("hide");
+// }
+
+// }
+// </script>
