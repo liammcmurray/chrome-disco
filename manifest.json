@@ -3,7 +3,7 @@
 
   "name": "ReConnect2",
   "description": "This extension fixes links broken in Outlook over EA VPN",
-  "version": "1.1",
+  "version": "1.2.0",
 
   "icons": { "16": "icon.png",
              "48": "icon48.png",
