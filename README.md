@@ -1,5 +1,5 @@
 # About
-Chrome extension to make the URL tidier for EA (https://disconnect2.herokuapp.com/) more automated and convenient
+Chrome extension to make the URL tidier for EA (https://decode-connect2.herokuapp.com/) more automated and convenient
 
 ## To use
 ### Installation
